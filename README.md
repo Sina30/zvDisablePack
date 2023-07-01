@@ -2,14 +2,23 @@
 
 ##Features
 -Disable Gang Fight
+
 -Disable NPCs
+
 -Disable Weapon Drop from npc
+
 -Disable Weapon From Police Vehicle
+
 -Disable Vehicle Air Control
+
 -Disable Weapon Punch
+
 -Disable Dispatch
+
 -Disable BigMap
+
 -Disable Combatroll
+
 -Disable Spam Punching
 
 ###Installation
