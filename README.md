@@ -1,6 +1,9 @@
 # zvDisablePack
 
+
+
 ##Features
+
 -Disable Gang Fight
 
 -Disable NPCs
@@ -21,12 +24,24 @@
 
 -Disable Spam Punching
 
+
+
 ###Installation
+
 -Drag & Drop the Script of your server
+
 -Open your Server.cfg / CFG Editor in TxAdmin
+
 -Add "ensure zvDisablePack" to your cfg
+
 -Edit the config as you like
+
 -Save it!
+
 -Enjoy it!
--Support
+
+
+
+####Support
+
 -Discord: https://dsc.gg/zvcoding
